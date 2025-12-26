@@ -20,7 +20,7 @@ Currently, I'm developing WordPress plugins that I need for my projects and hope
 
 ### Skills & Tools
 - **CMS:** WordPress, Joomla  
-- **Languages:** PHP, JavaScript, HTML, CSS  
+- **Languages:** PHP, JavaScript, HTML, CSS, SQL
 - **Frameworks & Tools:** WordPress Plugins, Gutenberg Blocks, REST API  
 
 ---
