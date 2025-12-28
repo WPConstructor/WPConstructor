@@ -2,7 +2,9 @@
 
 ## Hi, I'm WPConstructor 👋
 
+<p align="center">
 ![WPConstructor's profile image](https://avatars.githubusercontent.com/u/198608876?s=400&v=4)
+</p>
 
 ### About Me
 I'm a passionate **CMS developer** who started back in the **Joomla era**, building custom Joomla extensions. After taking a short break, I returned to CMS development and now focus on creating **WordPress plugins**.  
