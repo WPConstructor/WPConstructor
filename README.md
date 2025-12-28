@@ -3,7 +3,7 @@
 ## Hi, I'm WPConstructor 👋
 
 <p align="center">
-![WPConstructor's profile image](https://avatars.githubusercontent.com/u/198608876?s=400&v=4)
+  <img src="https://avatars.githubusercontent.com/u/198608876?s=400&v=4">
 </p>
 
 ### About Me
