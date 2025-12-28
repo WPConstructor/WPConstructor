@@ -1,6 +1,6 @@
-# WPConstructor on GitHub
+<h1 align="center">WPConstructor on GitHub</h1>
 
-## Hi, I'm WPConstructor 👋
+<h2 align="center">Hi, I'm WPConstructor 👋</h2>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/198608876?s=400&v=4">
