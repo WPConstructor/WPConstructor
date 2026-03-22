@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm WPConstructor 👋</h2>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/198608876?s=400&v=4" width="150" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/198608876?s=400&v=4" width="250" style="border-radius:50%">
 </p>
 
 ---
