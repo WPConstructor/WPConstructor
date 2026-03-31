@@ -47,6 +47,7 @@ I use WordPress because it lets me build powerful, flexible web solutions quickl
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![Gutenberg](https://img.shields.io/badge/Gutenberg-000000?logo=wordpress&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black)
