@@ -22,21 +22,23 @@ Currently developing **WordPress plugins** for my projects and planning to **con
 
 ---
 
-### Skills & Tools
-- **CMS:** WordPress, Joomla  
-- **Languages:** PHP, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Tools:** WordPress Plugins, Gutenberg Blocks, REST API  
-
----
-
 ### Why I Love WordPress
 WordPress is **easy to use**, **developer-friendly**, and **fully open-source**, empowering millions to build amazing websites.
 
 ---
 
+### Skills & Tools
+- **CMS:** WordPress, Joomla  
+- **Languages:** PHP, JavaScript, Node.js, HTML, CSS, SQL  
+- **Frameworks & Tools:** WordPress Plugins, Gutenberg Blocks, REST API  
+
+---
+
 ### Badges
 ![PHP](https://img.shields.io/badge/PHP-8.4-blue?logo=php) 
-![WordPress](https://img.shields.io/badge/WordPress-6.9-blue?logo=wordpress) 
+![WordPress](https://img.shields.io/badge/WordPress-6.9-blue?logo=wordpress)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=node.js)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
 ---
