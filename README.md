@@ -1,6 +1,6 @@
 <h1 align="center">WPConstructor on GitHub</h1>
 
-<h2 align="center">Hi, I'm WPConstructor 👋</h2>
+<h2 align="center">Hi 👋, I'm WPConstructor</h2>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/198608876?s=400&v=4" width="250" style="border-radius:50%">
