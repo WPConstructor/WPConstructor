@@ -1,6 +1,6 @@
-<h1 align="center">WPConstructor on GitHub</h1>
+<h1 align="center">🚀 WPConstructor on GitHub</h1>
 
-<h2 align="center">Hi 👋, I'm WPConstructor</h2>
+<h2 align="center">👋 Hi, I'm WPConstructor</h2>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/198608876?s=400&v=4" width="250" style="border-radius:50%">
@@ -8,7 +8,7 @@
 
 ---
 
-### About Me
+### 🧠 About Me
 I'm a passionate **CMS developer** who started in the **Joomla era**, creating custom extensions, and now focus on **WordPress plugins**.  
 
 Programming has been my passion **since childhood**, and I love building tools that make websites **faster**, **easier to manage**, and **more powerful**.  
@@ -17,12 +17,12 @@ Programming has been my passion **since childhood**, and I love building tools t
 
 ---
 
-### What I’m Working On
+### 🔧 What I’m Working On
 Currently developing **WordPress plugins** for my projects and planning to **contribute to WordPress Core** in the future. My goal is to make WordPress better for developers and users alike.
 
 ---
 
-### Why I Use WordPress
+### ⚡ Why I Use WordPress
 I use WordPress because it lets me build powerful, flexible web solutions quickly without sacrificing control. Its extensible architecture, large ecosystem, and REST API make it ideal for developing custom plugins and modern applications while staying efficient and maintainable.
 
 ---
@@ -88,7 +88,7 @@ I use WordPress because it lets me build powerful, flexible web solutions quickl
 
 ---
 
-### Let's Connect
+### 🔗 Let's Connect
 
 - 🌐 [Website](https://www.wpconstructor.com)
 - 🐙 [GitHub](https://github.com/WPConstructor)
