@@ -58,7 +58,6 @@ I use WordPress because it lets me build powerful, flexible web solutions quickl
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white)
-![POEdit](https://img.shields.io/badge/POEdit-1E88E5?logo=poedit&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white)
 
 ---
