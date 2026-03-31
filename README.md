@@ -96,6 +96,3 @@ I use WordPress because it lets me build powerful, flexible web solutions quickl
 
 - 🌐 [Website](https://www.wpconstructor.com)
 - 🐙 [GitHub](https://github.com/WPConstructor)
-
-- 🌐 [Website](https://www.wpconstructor.com)
-- 🐙 [GitHub](https://github.com/WPConstructor)
