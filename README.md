@@ -42,14 +42,6 @@ I use WordPress because it lets me build powerful, flexible web solutions quickl
 
 ---
 
-#### 🧪 Familiar with (basic experience)
-
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-Low_Level-6E4C13?logo=dependabot&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
-
----
-
 #### 🧱 Frameworks & Tools
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
