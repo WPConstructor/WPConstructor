@@ -35,8 +35,8 @@ WordPress is **easy to use**, **developer-friendly**, and **fully open-source**,
 ---
 
 ### Badges
-![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php) 
-![WordPress](https://img.shields.io/badge/WordPress-6.8-blue?logo=wordpress) 
+![PHP](https://img.shields.io/badge/PHP-8.4-blue?logo=php) 
+![WordPress](https://img.shields.io/badge/WordPress-6.9-blue?logo=wordpress) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
 ---
