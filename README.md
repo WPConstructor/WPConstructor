@@ -8,6 +8,14 @@
 
 ---
 
+### ⚙️ Web & WordPress Developer
+
+I’m a web developer focused on building modern, efficient, and scalable web solutions. My main expertise lies in WordPress development, where I create custom themes and plugins tailored to real-world needs.
+
+I specialize in WordPress plugin development, building tools that extend functionality, improve performance, and enhance the overall user experience.
+
+---
+
 ### 🧠 About Me
 I'm a passionate **CMS developer** who started in the **Joomla era**, creating custom extensions, and now focus on **WordPress plugins**.  
 
