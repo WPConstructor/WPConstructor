@@ -13,8 +13,6 @@ I'm a passionate **CMS developer** who started in the **Joomla era**, creating c
 
 Programming has been my passion **since childhood**, and I love building tools that make websites **faster**, **easier to manage**, and **more powerful**.  
 
-🌐 Check out my projects: [WPConstructor.com](https://wpconstructor.com)
-
 ---
 
 ### 🔧 What I’m Working On
