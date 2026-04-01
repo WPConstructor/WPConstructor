@@ -1,4 +1,4 @@
-<h1 align="center">🚀 WPConstructor on GitHub</h1>
+<h1 align="center">🚀 WordPress Plugin Developer & Enthusiast</h1>
 
 <h2 align="center">👋 Hi, I'm WPConstructor</h2>
 
