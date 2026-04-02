@@ -1,6 +1,6 @@
-<h1 align="center">🚀 WPConstructor — WordPress Plugin Developer</h1>
+  <h1 align="center">🚀 WPConstructor — WordPress Plugin Developer</h1>
 
-<h2 align="center">👋 Hi, I'm WPConstructor</h2>
+<h2 align="center">👋 Hi, I'm the developer behind WPConstructor</h2>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait.png" width="500">
