@@ -16,18 +16,18 @@
 
 ---
 
-## 👋 About
+## 🚀 What I Do
 
-I build modern, production-ready plugins for WordPress, focusing on clean code, maintainable architecture, strong documentation, and real-world usability through flexible configuration.
+👋 Hi, I’m Milton — the developer behind WPConstructor. I build modern, production-ready plugins for WordPress, focusing on clean code, maintainable architecture, strong documentation, and real-world usability through flexible configuration.
 
 ---
 
 ## 🧱 Core Stack
 
-- WordPress (Gutenberg)
-- REST API
 - PHP (modern standards)
 - JavaScript (ES6+)
+- WordPress (Gutenberg)
+- REST API
 
 ---
 
