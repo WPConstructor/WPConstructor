@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait.png?v=2" width="380">
+  <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png" width="450">
 </p>
 
 ---
