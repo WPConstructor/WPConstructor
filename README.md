@@ -1,6 +1,6 @@
 <h1 align="center">🚀 WPConstructor — WordPress Plugin Developer</h1>
 
-<h3 align="center">Building fast, scalable plugins & developer tools for WordPress</h3>
+<h3 align="center">Building high-quality, flexible WordPress plugins and developer tools for real-world use</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?logo=wordpress&logoColor=white" />
