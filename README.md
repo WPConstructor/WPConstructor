@@ -18,9 +18,7 @@
 
 ## 👋 About
 
-I build **WordPress plugins and developer tools** focused on **performance, clean architecture, and real-world usability**.
-
-My goal is to extend WordPress with solutions that are **lightweight, maintainable, and production-ready** — designed for developers who value structure and efficiency.
+I build modern, production-ready plugins for WordPress, focusing on clean code, maintainable architecture, strong documentation, and real-world usability through flexible configuration.
 
 ---
 
