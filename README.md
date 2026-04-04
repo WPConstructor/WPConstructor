@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi, I'm the developer behind WPConstructor</h2>
 
 <p align="center">
-  <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait.png" width="500">
+  <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait.png?v=2" width="500">
 </p>
 
 ---
