@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-Modern_Standards-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-FFDD00?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-FFDD00?logo=javascript&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Gutenberg-Block_Development-000000?logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-Architecture-005571?logo=fastapi&logoColor=white" />
 </p>
