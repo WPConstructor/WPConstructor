@@ -60,7 +60,7 @@
 
 I started in the Joomla ecosystem, building custom extensions, before transitioning into WordPress plugin development.
 
-After a short personal break, I returned with a renewed focus on building systems that are faster, cleaner, and easier to maintain, with a strong emphasis on long-term code quality.
+Since then, my work has focused on building high-quality, performant, and maintainable systems. I prioritize clean architecture, modern development standards, and well-structured code to ensure long-term reliability.
 
 ---
 
