@@ -60,13 +60,13 @@
 
 ## 🧠 Background
 
-I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving on to Visual Basic on Windows. In 2005, I began web development, and from 2006 to 2013 I built Joomla extensions.
+I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving into web development and Joomla extensions (2006–2013).
 
-After a longer personal break, I returned in 2017 and started developing a WordPress plugin (Style Manager), which I eventually paused due to increasing complexity and the shift toward block-based themes.
+After a break, I returned in 2017 to build a WordPress plugin (Style Manager), which I later paused due to its complexity and the shift to block themes.
 
-Since 2024, I’ve been working on WPConstructor.com, following a “learning by doing” approach by building more than 10 small and larger WordPress plugins. My focus is on continuously improving my skills and developing WordPress plugins with modern standards.
+Since 2024, I’ve been working on WPConstructor.com, building 10+ WordPress plugins as part of a “learning by doing” approach. My focus is on modern, high-quality, and maintainable plugin development.
 
-My goal is to launch the platform by July 2026, with a strong emphasis on high-quality, performant, and maintainable plugins, which I will publish progressively over time.
+My goal is to launch the platform by July 2026.
 
 ---
 
