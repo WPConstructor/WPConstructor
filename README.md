@@ -66,6 +66,8 @@ After a break, I returned in 2017 to build a WordPress plugin (Style Manager), w
 
 Since 2024, I’ve been working on WPConstructor.com, building 10+ WordPress plugins as part of a “learning by doing” approach. My focus is on modern, high-quality, and maintainable plugin development.
 
+Alongside programming, I also work with horses, which gives me a healthy balance and helps me stay grounded.
+
 My goal is to launch the platform by July 2026.
 
 ---
