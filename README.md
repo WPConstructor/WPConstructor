@@ -52,15 +52,21 @@
 
 ## 🚀 Current Focus
 
-- Building scalable WordPress plugins for real-world use  
-- Improving architecture, performance, and developer experience  
-- Preparing for contributions to WordPress Core  
+- Building WordPress plugins for real-world use with the highest possible quality
+- Using modern technologies and tooling (Git, PHP 8+, Composer, and more)
+- Preparing to launch my website in July 2026
 
 ---
 
 ## 🧠 Background
 
-I started in the Joomla ecosystem, building custom extensions, before transitioning into WordPress plugin development. After a longer personal break, I returned with a renewed focus on building high-quality, performant, and maintainable systems.
+I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving on to Visual Basic on Windows. In 2005, I began web development, and from 2006 to 2013 I built Joomla extensions.
+
+After a longer personal break, I returned in 2017 and started developing a WordPress plugin (Style Manager), which I eventually paused due to increasing complexity and the shift toward block-based themes.
+
+Since 2024, I’ve been working on WPConstructor.com, following a “learning by doing” approach by building more than 10 small and larger WordPress plugins. My focus is on continuously improving my skills and developing WordPress plugins with modern standards.
+
+My goal is to launch the platform by July 2026, with a strong emphasis on high-quality, performant, and maintainable plugins, which I will publish progressively over time.
 
 ---
 
