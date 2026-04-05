@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/REST_API-Architecture-005571?logo=fastapi&logoColor=white" />
 </p>
 
-<p align="center">🚧 WPConstructor is currently in its build phase and will be ready soon — new plugins are being added progressively. Follow for updates.</p>
+<p align="center">🚧 WPConstructor is currently in its build phase and will be ready soon — new plugins are being added progressively.</p>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="450">
@@ -70,3 +70,7 @@ Since then, my work has focused on building high-quality, performant, and mainta
 
 - 🌍 [WPConstructor Website](https://www.wpconstructor.com)  
 - 🐙 [GitHub Profile](https://github.com/WPConstructor)
+
+---
+
+👉 Follow for updates on new plugins and releases
