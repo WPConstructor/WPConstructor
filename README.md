@@ -64,7 +64,7 @@ I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later
 
 After a break, I returned in 2017 to build a WordPress plugin (Style Manager), which I later paused due to its complexity and the shift to block themes.
 
-Since 2024, I’ve been working on WPConstructor.com, building 10+ WordPress plugins as part of a “learning by doing” approach. My focus is on modern, high-quality, and maintainable plugin development.
+Since 2024, I’ve been working on WPConstructor.com, building 10+ WordPress plugins as part of a “learning by doing” approach. I’ve learned a lot along the way, and the more I learn, the better I get — it feels like exponential improvement.
 
 Alongside programming, I also work with horses, which gives me a healthy balance and helps me stay grounded.
 
