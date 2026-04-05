@@ -35,7 +35,7 @@
 
 ## ⚙️ Tooling
 
-- Composer, npm (dependency management)
+- Composer / npm (dependency management)
 - Webpack / esbuild (build tooling)
 - PHPUnit / QUnit (testing)
 - PHPCS / ESLint (code quality)
