@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/REST_API-Architecture-005571?logo=fastapi&logoColor=white" />
 </p>
 
-<p align="center">🚧 WPConstructor is currently in its build phase, with new plugins being added progressively.</p>
+<p align="center">🚧 WPConstructor is currently in its build phase and will be ready soon — new plugins are being added progressively. Follow for updates.</p>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="450">
