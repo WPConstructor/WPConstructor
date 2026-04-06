@@ -21,33 +21,13 @@
 
 I build high-quality, modern WordPress plugins that are ready for production. My focus is on clean code, easy maintenance, solid documentation, and practical real-world use, with an emphasis on testing and flexibility.
 
-## 🧱 Core Technologies
-
-- PHP (modern WordPress standards)
-- JavaScript (ES6+)
-- WordPress Plugin Development (strong focus)
-
-## 📦 Additional Experience
-
-- Gutenberg (basic, growing experience)
-- WordPress REST API (basic, working knowledge)
-- Node.js (basics)
-
-## ⚙️ Tooling
-
-- Git (version control)
-- Composer / npm (dependency management)
-- Webpack / esbuild (build tooling)
-- PHPUnit / QUnit (testing)
-- PHPCS / ESLint (code quality)
-
 ## 🧩 What I Build
 
 - WordPress plugins, developer tools & libraries  
 - Practical, technical documentation
-- Write tutorials and blogs. 
+- Tutorials and blogs. 
 
-🚀 Current Focus
+## 🚀 Current Focus
 
 - Finalizing plugins developed over the past two years
 - Updating code to modern standards and tools
@@ -58,16 +38,34 @@ I build high-quality, modern WordPress plugins that are ready for production. My
 
 I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving into web development and Joomla extensions (2005–2013).
 
-After a break, I returned in 2017 to build a WordPress plugin (Style Manager), which I later paused due to its complexity and the shift to block themes.
-
-Since 2024, I’ve been working on WPConstructor.com, building 10+ WordPress plugins as part of a “learning by doing” approach. I’ve learned a lot along the way, and the more I learn, the better I get — it feels like exponential improvement.
+After a break until 2017, I started building a WordPress plugin, which I later discontinued. Since the past two years I’ve been working on WPConstructor.com, building 10+ plugins.
 
 Alongside programming, I also work with horses, which gives me a healthy balance and helps me stay grounded.
 
-My goal is to launch the platform by July 2026.
+## 🧱 Core Technologies
+
+- PHP (modern WordPress standards)
+- JavaScript (ES6+)
+- WordPress Plugin Development (strong focus)
+
+## ⚙️ Tooling
+
+- Git (version control)
+- Composer / npm (dependency management)
+- Webpack / esbuild (build tooling)
+- PHPUnit / QUnit (testing)
+- PHPCS / ESLint (code quality)
+
+## 📦 Additional Experience
+
+- Gutenberg (basic, growing experience)
+- WordPress REST API (basic, working knowledge)
+- Node.js (basics)
 
 ## 🤝 Stay Connected
 
-Follow me to stay updated and not miss any releases. 👉 [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
+Follow me to stay updated and not miss any releases:
+
+👉 [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
 
 And check out my Website: 🌍 [WPConstructor Website](https://www.wpconstructor.com)
