@@ -32,7 +32,7 @@ I build high-quality, modern WordPress plugins that are ready for production. My
 - Finalizing plugins developed over the past two years
 - Updating code to modern standards and tools
 - Publishing plugins on WordPress.org
-- Preparing the launch of WPConstructor.com in July 2026
+- Preparing the launch of WPConstructor.com as soon as possible
 
 ## 🧠 Background
 
