@@ -64,7 +64,7 @@ Alongside programming, I also work with horses, which gives me a healthy balance
 
 ## 🤝 Stay Connected
 
-Follow me to stay updated and not miss any releases:
+Follow me to stay updated and get notified about all new releases:
 
 👉 [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
 
