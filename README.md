@@ -25,7 +25,7 @@ I build high-quality, modern WordPress plugins that are ready for production. My
 
 - WordPress plugins, developer tools & libraries  
 - Practical, technical documentation
-- Tutorials and blogs. 
+- WordPress development blog
 
 ## 🚀 What I’m Working On
 
