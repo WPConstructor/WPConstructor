@@ -89,4 +89,4 @@ My goal is to launch the platform by July 2026.
 
 ---
 
-### 🚧 WPConstructor is currently in its build phase and will be ready very soon — new plugins are being added progressivel, so follow me to stay updated: [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
+🚧 WPConstructor is currently in its build phase and will be ready very soon — new plugins are being added progressivel, so follow me to stay updated: [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
