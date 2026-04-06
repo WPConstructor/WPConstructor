@@ -27,7 +27,7 @@ I build high-quality, modern WordPress plugins that are ready for production. My
 - Practical, technical documentation
 - Tutorials and blogs. 
 
-## 🚀 Current Focus
+## 🚀 What I’m Working On
 
 - Finalizing plugins developed over the past two years
 - Updating code to modern standards and tools
