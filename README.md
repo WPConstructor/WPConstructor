@@ -58,9 +58,9 @@ Alongside programming, I also work with horses, which gives me a healthy balance
 
 ## 📦 Additional Experience
 
-- Gutenberg (basic, growing experience)
+- Gutenberg (basic, actively improving)
 - WordPress REST API (basic, working knowledge)
-- Node.js (basics)
+- Node.js (foundational knowledge)
 
 ## 🤝 Stay Connected
 
