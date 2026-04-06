@@ -19,9 +19,7 @@
 
 ## 🚀 What I Do
 
-I build high-quality, modern, production-ready WordPress plugins with a focus on clean code, maintainable architecture, solid documentation, and real-world usability backed by testing and flexibility.
-
----
+I build high-quality, modern WordPress plugins that are ready for production. My focus is on clean code, easy maintenance, solid documentation, and practical real-world use, with an emphasis on testing and flexibility.
 
 ## 🧱 Core Technologies
 
@@ -29,17 +27,11 @@ I build high-quality, modern, production-ready WordPress plugins with a focus on
 - JavaScript (ES6+)
 - WordPress Plugin Development (strong focus)
 
----
-
 ## 📦 Additional Experience
 
 - Gutenberg (basic, growing experience)
 - WordPress REST API (basic, working knowledge)
-- SVN (version control used by WordPress.org)
-- Node.js
-- Electron (desktop applications with Node.js)
-
----
+- Node.js (basics)
 
 ## ⚙️ Tooling
 
@@ -49,24 +41,18 @@ I build high-quality, modern, production-ready WordPress plugins with a focus on
 - PHPUnit / QUnit (testing)
 - PHPCS / ESLint (code quality)
 
----
-
 ## 🧩 What I Build
 
-- Production-ready WordPress plugins  
-- Developer-focused utilities & libraries  
+- WordPress plugins, developer tools & libraries  
 - Practical, technical documentation
 - Write tutorials and blogs. 
 
----
+🚀 Current Focus
 
-## 🚀 Current Focus
-
-- Building WordPress plugins for real-world use with the highest possible quality
-- Using modern technologies and tooling (Git, PHP 8+, Composer, and more)
-- Preparing to launch WPConstructor.com in July 2026
-
----
+- Finalizing plugins developed over the past two years
+- Updating code to modern standards and tools
+- Publishing plugins on WordPress.org
+- Preparing the launch of WPConstructor.com in July 2026
 
 ## 🧠 Background
 
@@ -80,13 +66,8 @@ Alongside programming, I also work with horses, which gives me a healthy balance
 
 My goal is to launch the platform by July 2026.
 
----
+## 🤝 Stay Connected
 
-## 🌐 Links
+🚧 WPConstructor is currently in its build phase — new plugins are being added progressivel. Follow me to stay updated and not miss any releases. 👉 [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
 
-- 🌍 [WPConstructor Website](https://www.wpconstructor.com)  
-- 🐙 [GitHub Profile](https://github.com/WPConstructor)
-
----
-
-🚧 WPConstructor is currently in its build phase and will be ready very soon — new plugins are being added progressivel, so follow me to stay updated: [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
+And check out my Website: 🌍 [WPConstructor Website](https://www.wpconstructor.com)
