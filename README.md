@@ -42,9 +42,9 @@ After a break, I gradually returned to WordPress development and, over the past 
 
 Alongside programming, I work with horses, which gives me balance and helps me stay grounded.
 
-## 💡 Why I Like Programming
+## 💡 Why I Love Programming
 
-Programming is very creative to me. It feels like raising a child — starting with a small idea, shaping it through early versions and pre-releases, and gradually helping it grow into a stable, finished product ready for release.
+Programming is very creative to me. It feels like raising a child — starting with a small idea, shaping it through early versions and pre-releases, and gradually helping it grow into a stable, finished product ready for release. I always feel lucky when a program works.
 
 ## 🧱 Core Technologies
 
