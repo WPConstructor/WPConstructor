@@ -1,27 +1,25 @@
 <h1 align="center">🚀 WPConstructor — WordPress Plugin Developer</h1>
 
-<h3 align="center">Building high-quality, flexible WordPress plugins and developer tools for real-world use</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?logo=wordpress&logoColor=white" alt="WordPress Plugin Development Badge"/>
-  <img src="https://img.shields.io/badge/PHP-Modern_Standards-777BB4?logo=php&logoColor=white" alt="PHP Modern Standards Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-FFDD00?logo=javascript&logoColor=yellow" alt="JavaScript ES6+ Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git Badge"/> 
-  <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" alt="Composer Badge"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm Badge"
-</p>
-
-<p align="center">🚧 WPConstructor is currently in its build phase and will be ready soon — new plugins are being added progressively.</p>
+<h3 align="center">👋 Hi, I’m WPConstructor, passionate about building high-quality WordPress plugin solutions.</h3>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="450">
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?logo=wordpress&logoColor=white" alt="WordPress Plugin Development Badge"/>
+  <img src="https://img.shields.io/badge/PHP-Modern_Standards-777BB4?logo=php&logoColor=white" alt="PHP Modern Standards Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-FFDD00?logo=javascript&logoColor=yellow" alt="JavaScript ES6+ Badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" alt="Composer Badge"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm Badge"
+</p>
 
 ## 🚀 What I Do
 
-👋 Hi, I’m Milton — the developer behind WPConstructor. I build modern, production-ready plugins for WordPress, focusing on clean code, maintainable architecture, strong documentation, and real-world usability through flexible configuration.
+I build high-quality, modern, production-ready WordPress plugins with a focus on clean code, maintainable architecture, solid documentation, and real-world usability backed by testing and flexibility.
 
 ---
 
@@ -72,7 +70,7 @@
 
 ## 🧠 Background
 
-I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving into web development and Joomla extensions (2006–2013).
+I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving into web development and Joomla extensions (2005–2013).
 
 After a break, I returned in 2017 to build a WordPress plugin (Style Manager), which I later paused due to its complexity and the shift to block themes.
 
@@ -91,4 +89,4 @@ My goal is to launch the platform by July 2026.
 
 ---
 
-👉 Follow for updates on new plugins and releases
+### 🚧 WPConstructor is currently in its build phase and will be ready very soon — new plugins are being added progressivel, so follow me to stay updated: [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
