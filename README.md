@@ -36,11 +36,11 @@ I build high-quality, modern WordPress plugins that are ready for production. My
 
 ## 🧠 Background
 
-I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving into web development and Joomla extensions (2005–2013).
+I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving into web development and building Joomla extensions (2005–2013).
 
-After a break until 2017, I started building a WordPress plugin, which I later discontinued. Since the past two years I’ve been working on WPConstructor.com, building 10+ plugins.
+After a break, I gradually returned to WordPress development and, over the past two years, have been fully focused again—working on WPConstructor.com and building 10+ plugins.
 
-Alongside programming, I also work with horses, which gives me a healthy balance and helps me stay grounded.
+Alongside programming, I work with horses, which gives me balance and helps me stay grounded.
 
 ## 🧱 Core Technologies
 
