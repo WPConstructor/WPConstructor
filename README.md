@@ -1,6 +1,6 @@
 <h1 align="center">🚀 WPConstructor — WordPress Plugin Developer</h1>
 
-<h3 align="center">👋 Hi, I’m WPConstructor, passionate about building high-quality WordPress plugin solutions.</h3>
+<h3 align="center">👋 Hi, I’m WPConstructor, passionate about building high-quality WordPress plugin and developer solutions.</h3>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="450">
