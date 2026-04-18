@@ -1,75 +1,53 @@
 <h1 align="center">🚀 WPConstructor — WordPress Plugin Developer</h1>
 
-<h3 align="center">👋 Hi, I’m WPConstructor, passionate about building high-quality WordPress plugin and developer solutions.</h3>
+<h3 align="center">
+🚧 WPConstructor is under active development — building WordPress plugins and workflow tools focused on structure, productivity, and real-world use.
+</h3>
 
 <p align="center">
-  <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="450">
+  <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?logo=wordpress&logoColor=white" alt="WordPress Plugin Development Badge"/>
-  <img src="https://img.shields.io/badge/PHP-Modern_Standards-777BB4?logo=php&logoColor=white" alt="PHP Modern Standards Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-FFDD00?logo=javascript&logoColor=yellow" alt="JavaScript ES6+ Badge"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" alt="Composer Badge"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm Badge"
-</p>
+---
 
-## 🚀 What I Do
+## 🧩 Focus
 
-I build high-quality, modern WordPress plugins that are ready for production. My focus is on clean code, easy maintenance, solid documentation, and practical real-world use, with an emphasis on testing and flexibility.
+I develop WordPress plugins and tools with a focus on:
 
-## 🧩 What I Build
+- Content workflow improvements
+- Internal linking systems
+- Admin productivity tools
+- Practical WordPress enhancements
 
-- WordPress plugins, developer tools & libraries  
-- Practical, technical documentation
-- WordPress development blog
+---
 
-## 🚀 What I’m Working On
+## 🚧 Current Work
 
-- Finalizing plugins developed over the past two years
-- Updating code to modern standards and tools
-- Publishing plugins on WordPress.org
-- Preparing the launch of WPConstructor.com as soon as possible
+- Developing and refining WordPress plugins
+- Improving existing codebases to modern standards
+- Building WPConstructor as a plugin-focused project direction
+- Preparing selected plugins for WordPress.org release
 
-## 🧠 Background
+---
 
-I started programming in the 90s with BASIC on the Commodore 64 and Amiga, later moving into web development and building Joomla extensions (2005–2013).
+## 🛠️ Tech Stack
 
-After a break, I gradually returned to WordPress development and, over the past two years, have been fully focused again—working on WPConstructor.com and building 10+ plugins.
-
-Alongside programming, I work with horses, which gives me balance and helps me stay grounded.
-
-## 💡 Why I Love Programming
-
-Programming is very creative to me. It feels like raising a child — starting with a small idea, shaping it through early versions and pre-releases, and gradually helping it grow into a stable, finished product ready for release. I always feel lucky when a program works.
-
-## 🧱 Core Technologies
-
-- PHP (modern WordPress standards)
+- PHP (WordPress development)
 - JavaScript (ES6+)
-- WordPress Plugin Development (strong focus)
+- WordPress Plugin Architecture
+- Git
+- Composer / npm (basic usage)
 
-## ⚙️ Tooling
+---
 
-- Git (version control)
-- Composer / npm (dependency management)
-- Webpack / esbuild (build tooling)
-- PHPUnit / QUnit (testing)
-- PHPCS / ESLint (code quality)
+## 📦 Status
 
-## 📦 Additional Experience
+🟡 Active development phase  
+Building and improving plugins iteratively.
 
-- Gutenberg (basic, actively improving)
-- WordPress REST API (basic, working knowledge)
-- Node.js (foundational knowledge)
+---
 
-## 🤝 Stay Connected
+## 🌐 Links
 
-Follow me to stay updated and get notified about all new releases:
-
-👉 [![Follow](https://img.shields.io/github/followers/WPConstructor?label=Follow&style=social)](https://github.com/WPConstructor)
-
-And check out my Website: 🌍 [WPConstructor Website](https://www.wpconstructor.com)
+- Website: https://www.wpconstructor.com
+- GitHub: https://github.com/WPConstructor
