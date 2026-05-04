@@ -19,7 +19,7 @@
       <td align="center">
         <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?logo=wordpress&logoColor=white" alt="WordPress Plugin Development"><br>
         <img src="https://img.shields.io/badge/PHP-Modern_Standards-777BB4?logo=php&logoColor=white" alt="PHP Modern Standards"><br>
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript ES6+"><br>
+        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=yelloq" alt="JavaScript ES6+"><br>
         <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" alt="CSS3 Styling"><br>
         <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" alt="HTML5 Markup"><br>
         <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" alt="MySQL Database">
