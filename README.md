@@ -8,7 +8,7 @@
 
 ## My Skills & Tools
 
-Programming is a vast field, so I focus on what each project requires while continuously expanding my skills when needed. Below are my current skills and tools.
+Programming is a vast field, so I focus on what each project requires while continuously expanding my skills when needed. Below are my current skills and tools:
 
 <table align="center">
   <thead>
