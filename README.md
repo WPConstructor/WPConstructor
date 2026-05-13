@@ -6,24 +6,41 @@
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
 </p>
 
+<p align="center">Programming is a vast field, so I focus on what each project requires while continuously expanding my skills when needed. Below are my current skills and tools.</p>
+
 <table align="center">
   <thead>
     <tr>
-      <th>🧱 Tech Stack</th>
-      <th>⚙️ Tooling</th>
-      <th>🧪 Test & Quality</th>
+      <th>🧱 WordPress</th>
+      <th>💻 Coding Languages</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?logo=wordpress&logoColor=white" alt="WordPress Plugin Development"><br>
+        <img src="https://img.shields.io/badge/WordPress-REST_API-21759B?logo=wordpress&logoColor=white" alt="WordPress REST API Badge"><br>
+        <img src="https://img.shields.io/badge/WordPress-Gutenberg_Blocks-3858E9?logo=wordpress&logoColor=white" alt="Gutenberg Blocks Badge"><br>
+      </td>
+      <td align="center">
         <img src="https://img.shields.io/badge/PHP-Modern_Standards-777BB4?logo=php&logoColor=white" alt="PHP Modern Standards"><br>
         <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=yelloq" alt="JavaScript ES6+"><br>
         <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" alt="CSS3 Styling"><br>
         <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" alt="HTML5 Markup"><br>
-        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" alt="MySQL Database">
+        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" alt="MySQL Database"><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge">
       </td>
+    </tr>
+  </tbody>
+</table>
+<table align="center">
+  <thead>
+    <tr>
+      <th>⚙️ Tooling</th>
+      <th>🧪 Test & Quality</th>
+    </tr>
+  </thead>
+  <tbody>
       <td align="center">
         <img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white" alt="Git"><br>
         <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"><br>
