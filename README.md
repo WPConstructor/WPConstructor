@@ -6,7 +6,9 @@
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
 </p>
 
-<p align="center">Programming is a vast field, so I focus on what each project requires while continuously expanding my skills when needed. Below are my current skills and tools.</p>
+## My Skills & Tools
+
+Programming is a vast field, so I focus on what each project requires while continuously expanding my skills when needed. Below are my current skills and tools.
 
 <table align="center">
   <thead>
