@@ -55,6 +55,7 @@ A growing collection of technologies and tools I use throughout my WordPress dev
         <img src="https://img.shields.io/badge/PHPCS-Code_Style-4B8BBE?logo=php&logoColor=white" alt="PHPCS"><br>
         <img src="https://img.shields.io/badge/ESLint-Linting-4B32C3?logo=eslint&logoColor=white" alt="ESLint"><br>
         <img src="https://img.shields.io/badge/PHPUnit-Testing-6C78AF?logo=php&logoColor=white" alt="PHPUnit"><br>
+        <img src="https://img.shields.io/badge/PHPStan-Level%208-brightgreen" alt="PHPStan Level 8"><br>
         <img src="https://img.shields.io/badge/QUnit-Testing-5B9BD5?logo=javascript&logoColor=white" alt="QUnit"><br>
         <img src="https://img.shields.io/badge/Playwright-E2E_Testing-2EAD33?logo=playwright&logoColor=white" alt="Playwright">
       </td>
