@@ -1,6 +1,6 @@
-<h1 align="center">🚀 WPConstructor — WordPress Plugin Developer</h1>
+<h1 align="center">🚀 WordPress Plugin Developer | Building & Learning</h1>
 
-<p align="center">👋 Hi, I’m WPConstructor. I build production-ready WordPress plugins and workflow tools focused on clean, high-quality solutions — simple where possible, powerful where needed, and always built for real-world use.</p>
+<p align="center">👋 Hi, I’m WPConstructor, a WordPress plugin developer currently learning and building custom solutions for the WordPress ecosystem. I recently started developing my own projects, focusing on clean architecture, performance, caching, automation, and scalable plugin development. Every project is an opportunity to improve my skills and contribute to the open-source community.</p>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
@@ -8,7 +8,7 @@
 
 ## My Skills & Tools
 
-Programming is a vast field, so I focus on what each project requires while continuously expanding my skills when needed. Below are my current skills and tools:
+A growing collection of technologies and tools I use throughout my WordPress development journey. From plugin development and automation to testing and version control, I'm always learning and improving my workflow.
 
 <table align="center">
   <thead>
@@ -62,21 +62,23 @@ Programming is a vast field, so I focus on what each project requires while cont
   </tbody>
 </table>
 
-## 🧩 Focus
+🧩 Focus
 
-I develop WordPress plugins and tools with a focus on:
+My primary focus is WordPress plugin development, with a strong interest in building practical tools that improve website management, automate workflows, and enhance the overall WordPress experience.
 
-- Content workflow improvements
-- Internal linking systems
-- Admin productivity tools
-- Practical WordPress enhancements
+- WordPress plugin development
+- Workflow automation and optimization
+- Performance and caching solutions
+- Admin and developer-focused tools
+- Clean and maintainable code architecture
 
-## 🚧 Current Work
+🚧 Currently Working On
 
-- Developing and refining WordPress plugins
-- Improving existing codebases to modern standards
-- Building WPConstructor as a plugin-focused project direction
-- Preparing selected plugins for WordPress.org release
+- Building and maintaining custom WordPress plugins
+- Expanding my knowledge of WordPress internals and APIs
+- Improving code quality through modern PHP practices
+- Exploring caching, scheduling, and automation systems
+- Preparing projects for open-source release and community feedback
 
 ## 📦 Status
 
