@@ -30,7 +30,8 @@ A growing collection of technologies and tools I use throughout my WordPress dev
         <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" alt="CSS3 Styling"><br>
         <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" alt="HTML5 Markup"><br>
         <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" alt="MySQL Database"><br>
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge">
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge"><br>
+        <img src="https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash Shell Scripting">
       </td>
     </tr>
   </tbody>
