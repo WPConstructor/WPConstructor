@@ -76,7 +76,7 @@ A growing collection of technologies and tools I use throughout my WordPress dev
   </tbody>
 </table>
 
-🧩 Focus
+## 🧩 Focus
 
 My primary focus is WordPress plugin development, with a strong interest in building practical tools that improve website management, automate workflows, and enhance the overall WordPress experience.
 
@@ -86,7 +86,7 @@ My primary focus is WordPress plugin development, with a strong interest in buil
 - Admin and developer-focused tools
 - Clean and maintainable code architecture
 
-🚧 Currently Working On
+## 🚧 Currently Working On
 
 - Building and maintaining custom WordPress plugins
 - Expanding my knowledge of WordPress internals and APIs
