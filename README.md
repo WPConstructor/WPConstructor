@@ -9,11 +9,14 @@
 ## 🚀 Featured Projects  
 *(More coming soon)*
 
-### 🧹 [WPConstructor Unlinker](https://github.com/WPConstructor/unlinker)
-Safely removes symbolic links inside WordPress plugins and themes during updates and uninstall processes. It ensures that only symlinks are deleted while preserving the original source directories, making it ideal for Composer-, npm-, and monorepo-based WordPress development workflows.
+### 📬 [WPConstructor Contact](https://github.com/WPConstructor/contact)
+A lightweight WordPress plugin that provides a customizable AJAX contact form with reCAPTCHA support, input persistence, and a 5-minute submission cooldown for spam protection.
 
 ### 🏷️ [WPConstructor Terms Enhancer](https://github.com/WPConstructor/terms-enhancer)
 Enhances the WordPress Terms block by adding term counts and optionally disabling links for single-use terms. Improves taxonomy clarity, readability, and overall user experience within WordPress content.
+
+### 🧹 [WPConstructor Unlinker](https://github.com/WPConstructor/unlinker)
+Safely removes symbolic links inside WordPress plugins and themes during updates and uninstall processes. It ensures that only symlinks are deleted while preserving the original source directories, making it ideal for Composer-, npm-, and monorepo-based WordPress development workflows.
 
 ## My Skills & Tools
 
