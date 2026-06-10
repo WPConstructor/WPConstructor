@@ -1,6 +1,6 @@
 <h1 align="center">🚀 WordPress Plugin Developer | Building & Learning</h1>
 
-<p align="center">👋 Hi, I’m WPConstructor, a WordPress plugin developer currently learning and building custom solutions for the WordPress ecosystem. I recently started developing my own projects, focusing on clean architecture, performance, caching, automation, and scalable plugin development. Every project is an opportunity to improve my skills and contribute to the open-source community.</p>
+<p align="center">👋 Hi, I’m WPConstructor. This is my journey into WordPress plugin development, building tools and solutions for real-world workflows.</p>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
