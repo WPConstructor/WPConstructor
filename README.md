@@ -6,8 +6,9 @@
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
 </p>
 
-## 🚀 Featured Projects  
-*(More coming soon)*
+## 🚀 Featured Projects
+
+My WordPress journey began in 2017, and over the past two years I've become increasingly focused on plugin development and developer tools.
 
 ### 📬 [WPConstructor Contact](https://github.com/WPConstructor/contact)
 A lightweight WordPress plugin that provides a customizable AJAX contact form with reCAPTCHA support, input persistence, and a 5-minute submission cooldown for spam protection.
@@ -78,21 +79,14 @@ A growing collection of technologies and tools I use throughout my WordPress dev
 
 ## 🧩 Focus
 
-My primary focus is WordPress plugin development, with a strong interest in building practical tools that improve website management, automate workflows, and enhance the overall WordPress experience.
-
-- WordPress plugin development
-- Workflow automation and optimization
-- Performance and caching solutions
-- Admin and developer-focused tools
-- Clean and maintainable code architecture
+Building WordPress plugins and developer tools focused on better workflows, performance, and maintainable code.
 
 ## 🚧 Currently Working On
 
-- Building and maintaining custom WordPress plugins
-- Expanding my knowledge of WordPress internals and APIs
-- Improving code quality through modern PHP practices
-- Exploring caching, scheduling, and automation systems
-- Preparing projects for open-source release and community feedback
+- WordPress plugins
+- Automation and optimization
+- Modern PHP development
+- Open-source projects
 
 ## 📦 Status
 
