@@ -1,96 +1,45 @@
-<h1 align="center">🚀 WordPress Plugin Developer | Building & Learning</h1>
+<h1 align="center">🚀 WordPress Plugin Developer | Learning & Building</h1>
 
-<p align="center">👋 Hi, I’m WPConstructor. This is my journey into WordPress plugin development, building tools and solutions for real-world workflows.</p>
+<p align="center">👋 Hi, I’m WPConstructor. I specialize in WordPress plugins and AI-powered tools, and enjoy building software.</p>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
 </p>
 
-## 🚀 Featured Projects
-
-My WordPress journey began in 2017, and over the past two years I've become increasingly focused on plugin development and developer tools.
-
-### 📬 [WPConstructor Contact](https://github.com/WPConstructor/contact)
-A lightweight WordPress plugin that provides a customizable AJAX contact form with reCAPTCHA support, input persistence, and a 5-minute submission cooldown for spam protection.
-
-### 🏷️ [WPConstructor Terms Enhancer](https://github.com/WPConstructor/terms-enhancer)
-Enhances the WordPress Terms block by adding term counts and optionally disabling links for single-use terms. Improves taxonomy clarity, readability, and overall user experience within WordPress content.
-
-### 🧹 [WPConstructor Unlinker](https://github.com/WPConstructor/unlinker)
-Safely removes symbolic links inside WordPress plugins and themes during updates and uninstall processes. It ensures that only symlinks are deleted while preserving the original source directories, making it ideal for Composer-, npm-, and monorepo-based WordPress development workflows.
-
-## My Skills & Tools
-
-A growing collection of technologies and tools I use throughout my WordPress development journey. From plugin development and automation to testing and version control, I'm always learning and improving my workflow.
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>🧱 WordPress</th>
-      <th>💻 Coding Languages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/WordPress-Plugin_Development-21759B?logo=wordpress&logoColor=white" alt="WordPress Plugin Development"><br>
-        <img src="https://img.shields.io/badge/WordPress-REST_API-21759B?logo=wordpress&logoColor=white" alt="WordPress REST API Badge"><br>
-        <img src="https://img.shields.io/badge/WordPress-Gutenberg_Blocks-3858E9?logo=wordpress&logoColor=white" alt="Gutenberg Blocks Badge"><br>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PHP-Modern_Standards-777BB4?logo=php&logoColor=white" alt="PHP Modern Standards"><br>
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=yelloq" alt="JavaScript ES6+"><br>
-        <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" alt="CSS3 Styling"><br>
-        <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" alt="HTML5 Markup"><br>
-        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" alt="MySQL Database"><br>
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge"><br>
-        <img src="https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash Shell Scripting">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<table align="center">
-  <thead>
-    <tr>
-      <th>⚙️ Tooling</th>
-      <th>🧪 Test & Quality</th>
-    </tr>
-  </thead>
-  <tbody>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white" alt="Git"><br>
-        <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"><br>
-        <img src="https://img.shields.io/badge/Composer-Dependency_Manager-885630?logo=composer&logoColor=white" alt="Composer"><br>
-        <img src="https://img.shields.io/badge/npm-Package_Manager-CB3837?logo=npm&logoColor=white" alt="npm"><br>
-        <img src="https://img.shields.io/badge/esbuild-Bundler-FFCF00?logo=esbuild&logoColor=black" alt="esbuild"><br>
-        <img src="https://img.shields.io/badge/webpack-Bundler-8DD6F9?logo=webpack&logoColor=black" alt="webpack">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PHPCS-Code_Style-4B8BBE?logo=php&logoColor=white" alt="PHPCS"><br>
-        <img src="https://img.shields.io/badge/ESLint-Linting-4B32C3?logo=eslint&logoColor=white" alt="ESLint"><br>
-        <img src="https://img.shields.io/badge/PHPUnit-Testing-6C78AF?logo=php&logoColor=white" alt="PHPUnit"><br>
-        <img src="https://img.shields.io/badge/PHPStan-Level%208-brightgreen" alt="PHPStan Level 8"><br>
-        <img src="https://img.shields.io/badge/QUnit-Testing-5B9BD5?logo=javascript&logoColor=white" alt="QUnit"><br>
-        <img src="https://img.shields.io/badge/Playwright-E2E_Testing-2EAD33?logo=playwright&logoColor=white" alt="Playwright">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## 🧩 Focus
-
-Building WordPress plugins and developer tools focused on better workflows, performance, and maintainable code.
-
 ## 🚧 Currently Working On
 
-- WordPress plugins
-- Automation and optimization
-- Modern PHP development
-- Open-source projects
+Building WordPress plugins and developer tools that support programming and streamline development workflows.
+<br><br>
+
+## 🚀 MVP Projects
+
+### 📬 [WPConstructor Contact](https://github.com/WPConstructor/contact) (0.4.0)
+WordPress plugin with AJAX contact form, reCAPTCHA support, input persistence, and a 5-minute cooldown. I use it on [WPConstructor.com/contact](https://wpconstructor.com/contact/).
+
+This helped me deepen my understanding of WordPress plugin development.
+
+### 🏷️ [WPConstructor Terms Enhancer](https://github.com/WPConstructor/terms-enhancer) (0.5.6)
+Enhances the WordPress Terms block with term counts and link disabling for single-use terms.
+
+Built to deepen my understanding of Gutenberg block development in WordPress plugins.
+
+### 🧹 [WPConstructor Unlinker](https://github.com/WPConstructor/unlinker) (1.0.1)
+Removes symbolic links in WordPress plugins and themes during updates and uninstall processes for preserving original sources for Composer- and monorepo-based workflows.
+
+Built to solve a missing real-world need.
+<br><br>
+
+## From Early Web Development to WordPress & AI-Assisted Development
+
+I began building plugins in 2006 with Joomla extensions, where I first worked with PHP and JavaScript. In 2017, I transitioned into WordPress plugin development.
+
+I use AI tools to support my workflow, but I’ve learned that a solid understanding of the fundamentals and hands-on development are essential—AI is a helpful assistant, not a replacement.
+<br><br>
 
 ## 📦 Status
 
-🟡 Active development phase: Building and improving plugins iteratively.
+🟡 Active development phase: Building, improving plugins and code projects iteratively.
+<br><br>
 
 ## 🌐 Links
 
