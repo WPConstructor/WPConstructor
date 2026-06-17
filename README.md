@@ -8,7 +8,7 @@
 
 ## 🚧 Currently Working On
 
-Building WordPress plugins and developer tools that support programming and streamline development workflows.
+Building WordPress plugins and developer tools that support programming, streamline development workflows, and promote learning by doing.
 <br><br>
 
 ## 🚀 MVP Projects
