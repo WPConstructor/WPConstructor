@@ -1,6 +1,6 @@
 <h1 align="center">🚀 WordPress Plugin Developer | Learning & Building</h1>
 
-<p align="center">👋 Hi, I’m WPConstructor. I specialize in WordPress plugins and AI-powered tools, and enjoy building software.</p>
+<p align="center">👋 Hi, I’m WPConstructor. I specialize in WordPress plugins and AI-powered tools, and enjoy building software with strong usability and high quality. </p>
 
 <p align="center">
   <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
@@ -8,7 +8,7 @@
 
 ## 🚧 Currently Working On
 
-Building WordPress plugins and developer tools that support programming, streamline development workflows, and promote learning by doing.
+Building WordPress plugins and developer tools for real-world use, focused on strong usability, quality, streamlined workflows, and learning by doing.
 <br><br>
 
 ## 🚀 MVP Projects
@@ -34,6 +34,4 @@ Built to solve a missing real-world need.
 I started building plugins in 2006 with Joomla extensions, working with PHP and JavaScript. In 2017, I transitioned into WordPress plugin development.
 
 I use AI tools to support my workflow, but I’ve learned that strong fundamentals and hands-on development remain essential—AI is a helpful assistant, not a replacement.
-<br><br>
-<br><br
-<br><br
+<br><br><br>
