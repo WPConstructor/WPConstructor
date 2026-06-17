@@ -29,11 +29,11 @@ Removes symbolic links in WordPress plugins and themes during updates and uninst
 Built to solve a missing real-world need.
 <br><br>
 
-## From Early Web Development to WordPress & AI-Assisted Development
+## 🧭 Background
 
-I began building plugins in 2006 with Joomla extensions, where I first worked with PHP and JavaScript. In 2017, I transitioned into WordPress plugin development.
+I started building plugins in 2006 with Joomla extensions, working with PHP and JavaScript. In 2017, I transitioned into WordPress plugin development.
 
-I use AI tools to support my workflow, but I’ve learned that a solid understanding of the fundamentals and hands-on development are essential—AI is a helpful assistant, not a replacement.
+I use AI tools to support my workflow, but I’ve learned that strong fundamentals and hands-on development remain essential—AI is a helpful assistant, not a replacement.
 <br><br>
 
 ## 📦 Status
