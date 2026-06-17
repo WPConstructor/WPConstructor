@@ -35,5 +35,5 @@ I started building plugins in 2006 with Joomla extensions, working with PHP and 
 
 I use AI tools to support my workflow, but I’ve learned that strong fundamentals and hands-on development remain essential—AI is a helpful assistant, not a replacement.
 <br><br>
-
-## 🌐 [Contact](https://wpconstructor.com/contact/)
+<br><br
+<br><br
