@@ -16,7 +16,7 @@ Building WordPress plugins and developer tools for real-world use, focused on st
 ### 📬 [WPConstructor Contact](https://github.com/WPConstructor/contact) (0.4.0)
 WordPress plugin with AJAX contact form, reCAPTCHA support, input persistence, and a 5-minute cooldown. I use it on [WPConstructor.com/contact](https://wpconstructor.com/contact/).
 
-This helped me deepen my understanding of WordPress plugin development.
+This helped me learn more of WordPress plugin development.
 
 ### 🏷️ [WPConstructor Terms Enhancer](https://github.com/WPConstructor/terms-enhancer) (0.5.6)
 Enhances the WordPress Terms block with term counts and link disabling for single-use terms.
