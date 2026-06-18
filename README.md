@@ -3,7 +3,7 @@
 <p align="center">👋 Hi, I’m WPConstructor. I specialize in WordPress plugins and AI-powered tools, and enjoy building software with strong usability and quality. </p>
 
 <p align="center">
-  <img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400">
+  <a href="https://wpconstructor.com"><img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400"></a>
 </p>
 
 ## 🚧 Currently Working On
