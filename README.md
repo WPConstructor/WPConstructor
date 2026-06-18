@@ -19,7 +19,7 @@ WordPress plugin with AJAX contact form, reCAPTCHA support, input persistence, a
 Built to deepen my understanding of WordPress plugin development.
 
 ### 🏷️ [WPConstructor Terms Enhancer](https://github.com/WPConstructor/terms-enhancer) (0.5.6)
-Enhances the WordPress Terms block by adding term counts and disabling links for single-use terms, such as post tags.
+Enhances the WordPress Terms block (e.g. post tags) by adding term counts and an option to disable links for single-use terms.
 
 Built to deepen my understanding of Gutenberg block development in WordPress plugins.
 
