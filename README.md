@@ -36,6 +36,6 @@ I started building plugins in 2006 with Joomla extensions, working with PHP and 
 I use AI tools to support my workflow, but I’ve learned that strong fundamentals and hands-on development remain essential—AI is a helpful assistant, not a replacement.
 <br><br>
 
-Feel free to explore my projects and follow my progress.
+Feel free to explore my projects and follow my progress as I continue learning and building.
 
 <br><br><br>
