@@ -31,7 +31,7 @@ Built to solve a real-world need that I was missing myself.
 
 ## 🧭 Background
 
-I started building plugins in 2006 with Joomla extensions, working with PHP and JavaScript. After a longer break, I transitioned to WordPress plugin development in 2017.
+I started building plugins in 2006 with Joomla extensions, working with PHP and JavaScript. I transitioned to WordPress plugin development in 2017.
 
 I use AI tools to support my workflow, but I’ve learned that strong fundamentals and hands-on development remain essential—AI is a helpful assistant, not a replacement.
 <br><br><br>
