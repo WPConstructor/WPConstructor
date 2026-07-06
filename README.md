@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Independent WordPress Plugin Developer | Learning by Doing, Building, and Improving</h1>
 
-<p align="center">👋 Hi, I’m WPConstructor. I build WordPress plugins and AI-powered tools with a focus on usability, clean design, and high-quality, practical software.</p>
+<h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin developer focused on building practical tools for WordPress.</h3>
 
 <p align="center">
   <a href="https://wpconstructor.com"><img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400"></a>
