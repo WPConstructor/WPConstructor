@@ -8,14 +8,14 @@
 
 ## 🛠️ What I Do
 
-I turn ideas into real-world WordPress plugins and AI tools through hands-on development. I focus on building reliable, user-friendly, and well-crafted solutions, while continuously learning and improving through each project.
+I turn ideas into WordPress plugins and AI tools. I focus on building simple, reliable, and user-friendly solutions while continuously improving with each project.
 <br><br>
 
 ## 🚧 Current Work
 
-I’m currently working on a WordPress plugin that I plan to release on WordPress.org in August 2026. This will be a long-term project that I will actively support, maintain, and continuously improve based on real user feedback.
+I’m building a WordPress plugin I plan to release on WordPress.org in August 2026, with long-term support and ongoing improvements based on user feedback.
 
-I focus on shipping early MVP (Minimum Viable Product) versions of my work to test ideas in real-world usage, gather feedback, and iterate quickly through hands-on development.
+I focus on shipping early MVPs to test ideas in real use, gather feedback, and iterate quickly.
 <br><br>
 
 ## 🚀 MVP WordPress Plugins
