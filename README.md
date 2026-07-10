@@ -20,6 +20,11 @@ I focus on shipping early MVPs to test ideas in real use, gather feedback, and i
 
 ## 🚀 MVP WordPress Plugins
 
+### ↔️ [WPConstructor Previous Next Post Block](https://github.com/WPConstructor/previous-next-post-block) (v0.1.0)
+WPConstructor Previous Next Post Block adds a previous and next post navigation block with featured images and post titles for WordPress.
+
+Built because I needed a solution.
+
 ### 📬 [WPConstructor Contact](https://github.com/WPConstructor/contact) (v0.4.3)
 WordPress plugin with AJAX contact form, reCAPTCHA support, input persistence, and a 5-minute cooldown. I use it on my contact page on my website [WPConstructor.com/contact](https://wpconstructor.com/contact/).
 
