@@ -59,3 +59,7 @@ Feel free to explore my projects and follow my progress as I continue learning, 
 You can also check my WPConstructor blog for insights, challenges, and lessons learned along the way:
 
 ### 👉 [My Blog](https://WPConstructor.com/blog/)
+
+Want to know more about me?
+
+### 👉 [About WPConstructor](https://WPConstructor.com/about/)
