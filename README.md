@@ -12,14 +12,14 @@
 
 ## 🛠️ What I Do
 
-I turn ideas into WordPress plugins and AI tools. I focus on building simple, reliable, and user-friendly solutions while continuously improving with each project.
+I build WordPress plugins and AI tools. Simple. Reliable. Always improving.
 <br><br>
 
 ## 🚧 Current Work
 
-Thia Week: I'm working on an AI program.
+Thia week: I'm working on an AI program.
 
-This Month: Building a WordPress plugin I plan to release on WordPress.org in August 2026.
+This month: Building a WordPress plugin I plan to release on WordPress.org in August 2026.
 
 <br><br>
 
@@ -54,6 +54,9 @@ Built because I needed a solution.
 I started building plugins in 2006 with Joomla extensions, working with PHP and JavaScript. After a longer break, I transitioned to WordPress plugin development in 2017.
 
 I use AI tools to support my workflow, but I’ve learned that strong fundamentals and hands-on development remain essential—AI is a helpful assistant, not a replacement.
+
+### [more...](https://WPConstructor.com/about/)
+
 <br><br>
 
 ## 👀 Follow My Work
@@ -65,7 +68,3 @@ Feel free to explore my projects and follow my progress as I continue learning, 
 You can also check my WPConstructor blog for insights, challenges, and lessons learned along the way:
 
 ### 👉 [My Blog](https://WPConstructor.com/blog/)
-
-Want to know more about me?
-
-### 👉 [About WPConstructor](https://WPConstructor.com/about/)
