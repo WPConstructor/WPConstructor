@@ -17,9 +17,10 @@ I turn ideas into WordPress plugins and AI tools. I focus on building simple, re
 
 ## 🚧 Current Work
 
-I’m building a WordPress plugin I plan to release on WordPress.org in August 2026, with long-term support and ongoing improvements based on user feedback.
+Thia Week: I'm working on an AI program.
 
-I focus on shipping early MVPs to test ideas in real use, gather feedback, and iterate quickly.
+This Month: Building a WordPress plugin I plan to release on WordPress.org in August 2026.
+
 <br><br>
 
 ## 🚀 MVP WordPress Plugins
