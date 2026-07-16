@@ -24,11 +24,6 @@ I focus on shipping early MVPs to test ideas in real use, gather feedback, and i
 
 ## 🚀 MVP WordPress Plugins
 
-### ↔️ [WPConstructor Previous Next Post Block](https://github.com/WPConstructor/previous-next-post-block) (v0.1.0)
-WPConstructor Previous Next Post Block adds a previous and next post navigation block with featured images and post titles for WordPress.
-
-Built because I needed a solution.
-
 ### 📬 [WPConstructor Contact](https://github.com/WPConstructor/contact) (v0.4.3)
 WordPress plugin with AJAX contact form, reCAPTCHA support, input persistence, and a 5-minute cooldown. I use it on my contact page on my website [WPConstructor.com/contact](https://wpconstructor.com/contact/).
 
@@ -43,6 +38,12 @@ Built to deepen my understanding of Gutenberg block development in WordPress plu
 Removes symbolic links in WordPress plugins and themes during updates and uninstall processes for preserving original sources for Composer- and monorepo-based workflows.
 
 Built to solve a real-world need that I was missing myself.
+
+### ↔️ [WPConstructor Previous Next Post Block](https://github.com/WPConstructor/previous-next-post-block) (v0.1.0)
+WPConstructor Previous Next Post Block adds a previous and next post navigation block with featured images and post titles for WordPress.
+
+Built because I needed a solution.
+
 
 ### 👉 [All Repositories](https://github.com/WPConstructor?tab=repositories)
 <br>
