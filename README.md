@@ -1,5 +1,9 @@
 <h1 align="center">🚀 Independent WordPress Plugin Developer | Learning by Doing, Building, and Improving</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=700&pause=1700&color=FFF3A3&center=true&vCenter=true&width=900&lines=Finding+problems;Getting+ideas;Thinking+deeply;Exploring+possibilities;Building+solutions;Improving+continuously;Stopping+work+before+becoming+a+total+nerd" alt="Typing SVG" />
+</p>
+
 <h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin developer focused on building practical tools for WordPress.</h3>
 
 <p align="center">
