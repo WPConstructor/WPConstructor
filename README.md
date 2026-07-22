@@ -12,14 +12,12 @@
 
 ## 🛠️ What I Do
 
-I build WordPress plugins and AI tools. Simple. Reliable. Always improving.
+I build open-source AI tools and WordPress plugins designed to be intuitive, and enjoyable to use.
 <br><br>
 
 ## 🚧 Current Work
 
-Thia week: I'm working on an AI program.
-
-This month: Building a WordPress plugin I plan to release on WordPress.org in August 2026.
+I'm working on an AI program and building a WordPress plugin I plan to release on WordPress.org in August 2026.
 
 <br><br>
 
