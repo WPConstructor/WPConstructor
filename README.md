@@ -1,10 +1,10 @@
 <h1 align="center">🚀 Independent AI & WordPress Plugin Developer | Learning by Doing, Building, and Improving</h1>
 
+<h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin and AI tools developer focused on building practical solutions for real-world problems.</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1000&pause=2000&color=FFF3A3&center=true&vCenter=true&width=900&lines=Finding+problems;Getting+ideas;Building,+Developing+and+using+AI;Learning+and+iterating;Taking+a+break;Working+with+horses+and+doing+other+stuff;Getting+back+to+work" alt="Typing SVG" />
 </p>
-
-<h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin and AI tools developer focused on building practical solutions for real-world problems.</h3>
 
 <p align="center">
   <a href="https://wpconstructor.com"><img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400"></a>
