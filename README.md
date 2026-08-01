@@ -23,7 +23,11 @@ I'm working on a WordPress plugin I plan to release on WordPress.org in August 2
 
 ## 🚀 AI Tools
 
-### 
+### ✦ [Gitoluxe](https://github.com/WPConstructor/gitoluxe) (v1.0.0)
+
+Gitoluxe is a local AI Git assistant that generates smart commit messages using Ollama-powered coding models while keeping your code private. It automates Git commits with AI-powered suggestions.
+
+Built to create an AI-powered tool.
 
 ## 🚀 MVP WordPress Plugins
 
