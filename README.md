@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Independent AI & WordPress Plugin Developer | Learning by Doing, Building, and Improving</h1>
+<h1 align="center">🚀 Opensource AI & WordPress Plugin Developer | Learning by Doing, Building, and Improving</h1>
 
 <h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin and AI tools developer focused on building practical solutions for real-world problems.</h3>
 
