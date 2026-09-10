@@ -17,7 +17,7 @@ I build open-source AI tools and WordPress plugins designed to be intuitive, and
 
 ## 🚧 Current Work
 
-I'm working on a WordPress plugin I plan to release on WordPress.org very soon.
+I'm working on a WordPress plugin I plan to release on WordPress.org soon.
 <br><br>
 
 ## 🚀 AI Tools
