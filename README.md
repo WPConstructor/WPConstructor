@@ -3,7 +3,7 @@
 <h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin and AI tools developer focused on building practical solutions for real-world problems.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1000&pause=2000&color=8888FF&center=true&vCenter=true&width=900&lines=Finding+problems;Getting+ideas;Building,+testing+and+using+AI;Applying+solutions;Learning+and+iterating;Taking+a+break;Working+with+horses+and+doing+other+stuff;Getting+back+to+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1000&pause=2000&color=8888FF&center=true&vCenter=true&width=900&lines=I+love+turning+ideas+into+code;I+enjoy+solving+problems;I+build+things+I+actually+want+to+use;I+learn+something+new+every+day;I+break+things%2C+debug+them%2C+and+learn;I+code+with+curiosity+and+creativity;I+vibe+code+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
