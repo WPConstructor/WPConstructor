@@ -1,9 +1,9 @@
-<h1 align="center">🚀 Opensource AI & WordPress Plugin Developer | Learning by Doing, Building, and Improving</h1>
+<h1 align="center">🚀 WordPress Plugin Architect & Developer</h1>
 
-<h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin and AI tools developer focused on building practical solutions for real-world problems.</h3>
+<h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin and tools developer focused on building practical solutions for real-world problems.</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1000&pause=2300&color=8888FF&center=true&vCenter=true&width=900&lines=I+turn+coffee+%28and+ideas%29+into+code;I+solve+problems+I+may+have+created;It+works+on+my+machine+%F0%9F%A4%B7;I+call+it+a+feature%2C+not+a+bug;I+debug+with+AI+and+hope;I+learn+something+new+after+breaking+something;I+vibe+code+%F0%9F%9A%80;AI+writes+the+code%2C+I+take+the+credit+%F0%9F%98%8E;Ship+it%21+What+could+possibly+go+wrong%3F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1000&pause=2300&color=8888FF&center=true&vCenter=true&width=900&lines=Check+WordPress+plugin+use+cases;Explore+available+solutions;Plan;Develop;Test;Publish;Improve;Update;Provide+support" alt="Typing SVG" />
 </p>
 
 <p align="center">
