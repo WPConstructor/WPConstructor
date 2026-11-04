@@ -1,76 +1,25 @@
-<h1 align="center">🚀 WordPress Plugin Architect & Developer</h1>
+<h1 align="center">⭐ WordPress-Focused Open Source Development</h1>
 
-<h3 align="center">👋 Hi, I’m WPConstructor — a WordPress plugin and tools developer focused on building practical solutions for real-world problems.</h3>
+<h2 align="center">Hobbyist by Heart. Developer by Passion. Aspiring Pro.</h2>
+
+<h3 align="center">👋 Hi! I combine coding experience and creative thinking to build innovative solutions for a better WordPress.</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1000&pause=2300&color=8888FF&center=true&vCenter=true&width=900&lines=Check+WordPress+plugin+use+cases;Explore+available+solutions;Plan;Develop;Test;Publish;Improve;Update;Provide+support" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1300&pause=2300&color=8888FF&center=true&vCenter=true&width=900&lines=Creative+by+nature;Experienced+by+practice;Always+experimenting;Always+improving;Knowing+when+to+slow+down" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://wpconstructor.com"><img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400"></a>
 </p>
 
-## 🛠️ What I Do
+## 🚀 Current Work
 
-I build open-source AI tools and WordPress plugins designed to be intuitive, and enjoyable to use.
-<br><br>
+I'm working on several major WordPress plugins, with the first releases planned for January 1, 2027 — all heading to WordPress.org.
 
-## 🚧 Current Work
+Meanwhile, I've built a collection of fully functional plugins and tools that I actively use on my own website and in my daily work. Feel free to explore and try them out!
 
-I'm working on a WordPress plugin I plan to release on WordPress.org soon.
-<br><br>
+I'm constantly experimenting, refining, and improving — from my website to my plugins and tools.
 
-## 🚀 AI Tools
+**Take a look at my [repositories](https://github.com/WPConstructor?tab=repositories) and see what I'm building!**
 
-### ✦ [Gitoluxe](https://github.com/WPConstructor/gitoluxe) (v1.0.0)
-
-Gitoluxe is a local AI Git assistant that generates smart commit messages using Ollama-powered coding models while keeping your code private. It automates Git commits with AI-powered suggestions.
-
-Built to create an AI-powered tool.
-<br><br>
-
-## 🚀 MVP WordPress Plugins
-
-### 📬 [WPConstructor Contact](https://github.com/WPConstructor/contact) (v0.4.3)
-WordPress plugin with AJAX contact form, reCAPTCHA support, input persistence, and a 5-minute cooldown. I use it on my contact page on my website [WPConstructor.com/contact](https://wpconstructor.com/contact/).
-
-Built to deepen my understanding of WordPress plugin development.
-
-### 🏷️ [WPConstructor Terms Enhancer](https://github.com/WPConstructor/terms-enhancer) (v0.5.6)
-Enhances the WordPress Terms block (e.g. post tags) by adding term counts and an option to disable links for single-use terms.
-
-Built to deepen my understanding of Gutenberg block development in WordPress plugins.
-
-### 🧹 [WPConstructor Unlinker](https://github.com/WPConstructor/unlinker) (v1.0.1)
-Removes symbolic links in WordPress plugins and themes during updates and uninstall processes for preserving original sources for Composer- and monorepo-based workflows.
-
-Built to solve a real-world need that I was missing myself.
-
-### ↔️ [WPConstructor Previous Next Post Block](https://github.com/WPConstructor/previous-next-post-block) (v0.1.0)
-WPConstructor Previous Next Post Block adds a previous and next post navigation block with featured images and post titles for WordPress.
-
-Built because I needed a solution.
-
-
-### 👉 [All Repositories](https://github.com/WPConstructor?tab=repositories)
-<br>
-
-## 🧭 Background
-
-I started building plugins in 2006 with Joomla extensions, working with PHP and JavaScript. After a longer break, I transitioned to WordPress plugin development in 2017.
-
-I use AI tools to support my workflow, but I’ve learned that strong fundamentals and hands-on development remain essential—AI is a helpful assistant, not a replacement.
-
-### [more...](https://WPConstructor.com/about/)
-
-<br><br>
-
-## 👀 Follow My Work
-
-Feel free to explore my projects and follow my progress as I continue learning, building, and shipping:
-
-### 👉 [My Website](https://WPConstructor.com)
-
-You can also check my WPConstructor blog for insights, challenges, and lessons learned along the way:
-
-### 👉 [My Blog](https://WPConstructor.com/blog/)
+Check out my website: 👉 [My Website](https://WPConstructor.com)
