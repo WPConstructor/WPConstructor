@@ -12,14 +12,16 @@
   <a href="https://wpconstructor.com"><img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400"></a>
 </p>
 
-## 🚀 Current Work
+## Current Work 🧩
 
 I'm working on several major WordPress plugins, with the first releases planned for January 1, 2027 — all heading to WordPress.org.
 
 Meanwhile, I've built a collection of fully functional plugins and tools that I actively use on my own website and in my daily work. Feel free to explore and try them out!
 
-I'm constantly experimenting, refining, and improving — from my website to my plugins and tools.
+## Take a Look Around 👀
 
-**Take a look at my [repositories](https://github.com/WPConstructor?tab=repositories) and see what I'm building!**
+🚀 Feel free to explore my [GitHub repositories](https://github.com/WPConstructor?tab=repositories) repositories and see what I'm building!
 
-Check out my website: 👉 [My Website](https://WPConstructor.com)
+🌐 Take a look at my website 👉 [WPConstructor.com](https://WPConstructor.com).
+
+I'd be really happy if you stopped by! 😊
