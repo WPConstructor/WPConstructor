@@ -13,7 +13,7 @@ Meanwhile, I've built a collection of fully functional plugins and tools that I 
 
 ## Take a Look Around 👀
 
-🚀 Feel free to explore my [GitHub repositories](https://github.com/WPConstructor?tab=repositories) and see what I'm building!
+🚀 Feel free to explore my [projects](https://WPConstructor.com/projects) and see what I'm building!
 
 🌐 Take a look at my website 👉 [WPConstructor.com](https://WPConstructor.com).
 
