@@ -2,7 +2,7 @@
 
 <h2 align="center">Hobbyist by Heart. Developer by Passion. Aspiring Pro.</h2>
 
-<h3 align="center">👋 Hi! I combine coding experience and creative thinking to build innovative solutions for a better WordPress.</h3>
+<p align="center">👋 Hi! I'm an independent developer and lifelong programming hobbyist, building innovative WordPress plugins and tools with creativity and experience. Always learning, improving, and aspiring to go pro.</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1300&pause=2300&color=8888FF&center=true&vCenter=true&width=900&lines=Creative+by+nature;Experienced+by+practice;Breaking+New+Ground;Always+improving;Knowing+when+to+slow+down" alt="Typing SVG" />
