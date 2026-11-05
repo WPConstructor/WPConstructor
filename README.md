@@ -7,7 +7,7 @@
 
 ## Current Work 🧩
 
-I'm working on several major WordPress plugins, with the first releases planned for start of the new year — all heading to WordPress.org.
+I'm working on several major WordPress plugins, with the first releases planned for early 2027 — all heading to WordPress.org!
 
 Meanwhile, I've built a collection of fully functional plugins and tools that I actively use on my own website and in my daily work. Feel free to explore and try them out!
 
