@@ -1,12 +1,5 @@
-<h1 align="center">⭐ WordPress-Focused Open Source Development</h1>
-
-<h2 align="center">Hobbyist by Heart. Developer by Passion. Aspiring Pro.</h2>
-
+<h1 align="center">Plugin Development Focused on WordPress 🚀</h1>
 <p align="center">👋 Hi! I'm an independent developer and lifelong programming hobbyist, building innovative WordPress plugins and tools with creativity and experience. Always learning, improving, and aspiring to go pro.</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1300&pause=2300&color=8888FF&center=true&vCenter=true&width=900&lines=Creative+by+nature;Experienced+by+practice;Breaking+New+Ground;Always+improving;Knowing+when+to+slow+down" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://wpconstructor.com"><img src="https://wpconstructor.com/assets/images/wpconstructor-portrait-3-500x500.png?v=4" width="400"></a>
