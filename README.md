@@ -5,7 +5,7 @@
 <h3 align="center">👋 Hi! I combine coding experience and creative thinking to build innovative solutions for a better WordPress.</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1300&pause=2300&color=8888FF&center=true&vCenter=true&width=900&lines=Creative+by+nature;Experienced+by+practice;Always+experimenting;Always+improving;Knowing+when+to+slow+down" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=1300&pause=2300&color=8888FF&center=true&vCenter=true&width=900&lines=Creative+by+nature;Experienced+by+practice;Breaking New Ground;Always+improving;Knowing+when+to+slow+down" alt="Typing SVG" />
 </p>
 
 <p align="center">
